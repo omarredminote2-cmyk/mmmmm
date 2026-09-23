@@ -1,0 +1,18 @@
+{
+  "name": "zareqia-royal-grace-clone",
+  "version": "1.0.0",
+  "description": "High-fidelity frontend reproduction of Zareqia Royal Grace wedding invitation webpage",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "keywords": [
+    "wedding-invitation",
+    "royal-grace",
+    "front-end-clone",
+    "html5",
+    "tailwind"
+  ],
+  "author": "Antigravity",
+  "license": "ISC"
+}
